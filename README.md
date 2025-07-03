@@ -1,4 +1,4 @@
-**MediMeet – Doctor Appointment Platform** [Live Site](https://medi-meet-azure.vercel.app/)
+**MediMeet – Doctor Appointment Platform** [LIVE SITE](https://medi-meet-azure.vercel.app/)
 
 Built a responsive, full-stack telemedicine web application enabling one-on-one virtual consultations between doctors and patients globally. Key features include:
 
@@ -9,7 +9,10 @@ Built a responsive, full-stack telemedicine web application enabling one-on-one 
 5. Doctor dashboard for availability management, earnings tracking, and withdrawal requests.
 6. Admin panel for doctor verification and payout processing.
 7. Fully responsive UI with dynamic booking flows and in-call controls (mute, video toggle, end call).
+
 **Tech stack:** Next JS, Tailwind CSS, PostgreSQL, Prisma, Shadcn, Vonage, Clerk/Auth.js
+
+**Website UI:-**
 
 ![Image](https://github.com/user-attachments/assets/4449ccf3-1398-41ff-9087-178685e80e52)
 
