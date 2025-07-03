@@ -1,4 +1,5 @@
 **MediMeet – Doctor Appointment Platform** [Live Site](https://medi-meet-azure.vercel.app/)
+
 Built a responsive, full-stack telemedicine web application enabling one-on-one virtual consultations between doctors and patients globally. Key features include:
 
 1. Role-based authentication & onboarding for doctors and patients.
